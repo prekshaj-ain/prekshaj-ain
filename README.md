@@ -1,16 +1,26 @@
-### Hi there 👋
+# Preksha Jain
 
-<!--
-**prekshaj-ain/prekshaj-ain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm Preksha Jain, a full stack web developer on a mission to make technology accessible and fun for everyone, and I believe that the best way to do that is by staying curious, creative, and always willing to experiment.
 
-Here are some ideas to get you started:
+## My Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ♥️ JavaScript
+- 🚀 React
+- 🎨 NodeJS ExpressJS
+- 💻 MongoDB
+
+## My Projects
+
+Here are some of my favorite projects:
+
+- ❄️ COMPOSE (Project 1 Link): [Project 1 Description]
+- 🧑‍ WhoIsPreksha? (Project 2 Link): [Project 2 Description]
+- 🌧️ Sky Watch: [Project 3 Description]
+
+## Get In Touch
+
+If you're interested in collaborating, have a project you'd like to discuss, or just want to say hi, feel free to reach out to me:
+
+- 💌 mailto:jainpreksha2712@gmail.com
+- 🔗 https://linkedin.com/in/prekshajain--
+
