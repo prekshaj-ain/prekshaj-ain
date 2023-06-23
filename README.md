@@ -9,13 +9,6 @@ Hi there! I'm Preksha Jain, a full stack web developer on a mission to make tech
 - 🎨 NodeJS ExpressJS
 - 💻 MongoDB
 
-## My Projects
-
-Here are some of my favorite projects:
-
-- ❄️ COMPOSE (Project 1 Link): [Project 1 Description]
-- 🧑‍ WhoIsPreksha? (Project 2 Link): [Project 2 Description]
-- 🌧️ Sky Watch: [Project 3 Description]
 
 ## Get In Touch
 
